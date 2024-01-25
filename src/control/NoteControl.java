@@ -3,7 +3,7 @@ package control;
 import entity.HibernateUtil;
 import java.util.ArrayList;
 import java.util.List;
-import javax.persistence.EntityManager;
+import EntityManager;
 import model.Note;
 
 public class NoteControl {
